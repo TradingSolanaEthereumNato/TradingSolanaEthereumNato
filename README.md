@@ -1,162 +1,88 @@
-<h1 align="center">🖐️ Senior Software Engineer 🖐️</h1> 
-<br />
-<h1 align="center"> Archievements </h1>
-<p align="center">
-  <a href="https://github.com/OnlyForward0613?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=OnlyForward0613&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@OnlyForward0613's trophy stats"/></a>
-</p>
-<table align="center">
-<tr>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" height="45" >
-      <br>NFT
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" height="45" >
-      <br>DeFi
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png" width="48" height="48" alt="Ethereum" />
-      <br>Ethereum
-    </td>
-    <td align="center" width="90">
-      <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png" width="48" height="48" style="border-radius: 15px;" alt="Solana" />
-      <br>Solana
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
-      <br>Rust
-    </td>
-    <td align="center" width="90">
-      <img src="./anchor.png" alt="Anchor" width="55" height="55" />
-      <br>Anchor
-    </td>
-    <td align="center" width="90">
-      <img src="./foundry.png" alt="icon" width="55" height="55" />
-      <br>Foundry
-    </td>
-    <td align="center" width="90">
-      <img src="./hardhat.svg" alt="HardHat" width="55" height="55" />
-      <br>HardHat
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rails" width="45" height="45" alt="rails" />
-      <br>Rails
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />
-      <br>React
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-      <br>Nuxt.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=svelte" width="45" height="45" alt="Svelte" />
-      <br>Svelte
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="90">
-        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
-      <br>GraphQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
-      <br>Three.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="AndroidStudio" />
-      <br>Android
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=ruby" width="45" height="45" alt="Ruby" />
-      <br>Ruby
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=go" title="GoLang" alt="GoLang " width="45" height="45"/>
-      <br>GoLang
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="Nest.js" />
-      <br>Nest.js
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="55" height="55" />
-      <br>Django
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=laravel" width="45" height="45" alt="Laravel" />
-      <br>Laravel
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=flutter" width="45" height="45" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="55" height="55" />
-      <br>Python
-    </td>
-  </tr>
-</table>
-<br/>
+# Quantum Gold Trader Bot 🏦🚀
 
-<p align="center">
-  <img src="https://github.com/OnlyForward0613/OnlyForward0613/blob/master/mainboard_me.png" alt="Profile Readme Generator" data-canonical-src="https://profile-readme-generator.com/assets/app.png" style="max-width: 100%;" width="900">
-</p>
-<p align="center">
-  <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api?username=OnlyForward0613&show_icons=true&theme=radical&card_width=350" />
-  </a>
-  <a href="https://github.com/OnlyForward0613/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-cg8z.vercel.app/api/top-langs?username=OnlyForward0613&layout=compact&langs_count=8&card_width=350&theme=radical" />
-  </a>
-  
-</p>
-<!--  <p align="center">
-  <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=ffflabs\&layout=compact&theme=radical" />
-</p> -->
-<p align="center">
-  <a href="https://github.com/OnlyForward0613/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=OnlyForward0613&theme=radical" />
-  </a>
-</p>
+![Gold Trading](https://img.shields.io/badge/Market-Gold-yellow)
+![AI Powered](https://img.shields.io/badge/AI-Powered-blue)
+![Telegram Bot](https://img.shields.io/badge/Platform-Telegram-26A5E4)
+![Python](https://img.shields.io/badge/Python-3.8+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
-<div align="left">
+An institutional-grade trading bot specializing in gold and cryptocurrency markets, combining quantum-inspired algorithms with traditional technical analysis.
 
+## 🔍 Overview
 
+The Quantum Gold Trader is a sophisticated trading system that:
+- Monitors multiple gold markets (spot, futures) and cryptocurrencies
+- Generates AI-powered trade signals
+- Manages risk with institutional-grade controls
+- Executes trades via Interactive Brokers API
+- Provides real-time updates through Telegram
 
-<br clear ="both" >
+## 🌟 Key Features
+
+### 📊 Multi-Source Market Data
+- Real-time prices from CME, LBMA, Polygon.io, and CoinGecko
+- Automatic fallback to alternative data sources
+- Historical data analysis with Yahoo Finance
+- Data validation and sanitization
+
+### 🧠 AI Prediction Engine
+- Ensemble of Temporal Fusion Transformers, XGBoost, and Prophet models
+- Quantum-inspired prediction algorithms
+- OpenAI GPT-4 for natural language analysis
+- Continuous model retraining
+
+### ⚖️ Institutional Risk Management
+- Dynamic position sizing (Kelly Criterion)
+- Volatility-adjusted stop-loss/take-profit
+- Maximum exposure limits (configurable)
+- Multi-factor trade validation system
+- Real-time risk monitoring
+
+### 💱 Professional Trading Strategies
+| Strategy | Description | Best For |
+|----------|-------------|----------|
+| 🦅 Eagle | Institutional trend following | Swing trading (1-5 days) |
+| ⚡ Flash | High-frequency momentum | Day trading (intraday) |
+| 🌌 Quantum | AI-optimized portfolio strategy | All market conditions |
+| 🏛 Composite | Multi-strategy blend | Balanced risk approach |
+
+### 📱 Telegram Interface
+![Bot Interface](docs/images/bot_interface.png)
+- Real-time market alerts
+- Trade execution interface
+- Portfolio monitoring
+- AI-powered market analysis
+
+## 🛠 Installation
+
+### Prerequisites
+- Python 3.8+
+- Telegram account
+- Interactive Brokers account (for live trading)
+- API keys for:
+  - Polygon.io
+  - CoinGecko
+  - OpenAI
+
+### Setup Instructions
+
+1. **Clone repository**:
+   ```bash
+   git clone https://github.com/yourrepo/quantum-gold-trader.git
+   cd quantum-gold-trader
+   ```
+2. **Run requirements.txt**
+3. **Set up Telegram bot**
+   - Create a new bot using BotFather
+   - Get the bot token and chat ID
+   - Set environment variables: `TELEGRAM_BOT_TOKEN` and `TELEGRAM_CHAT_ID`
+4. **Configure Interactive Brokers API**
+   - Obtain API keys and credentials
+   - Set environment variables: `IB_API_KEY`, `IB_API_SECRET`, `IB_ACCOUNT_ID`
+5. **Set up data sources**
+   - Obtain API
+   - Set environment variables: `POLYGON_API_KEY`, `COINGECKO_API_KEY`
+6. **Set up AI models**
+   - Obtain API keys from OpenAI
+   - Set environment variables: `OPENAI_API_KEY`
+7. **Run the bot**
